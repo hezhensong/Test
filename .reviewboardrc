@@ -1,0 +1,2 @@
+REVIEWBOARD_URL = 'http://10.0.1.175:80/'
+REPOSITORY = 'weego_trainning'
